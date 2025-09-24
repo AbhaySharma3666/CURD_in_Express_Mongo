@@ -55,7 +55,7 @@ This project allows users to manage contacts by adding, viewing, updating, and d
 4. Start MongoDB server (make sure MongoDB is running on your system).
 5. Run the application:
    ```bash
-   npm start
+   npm run dev
    ```
 6. Open your browser and visit:
    ```
